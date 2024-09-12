@@ -10,11 +10,6 @@ crossorigin="anonymous" referrerpolicy="no-referrer"/>
 <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-projeto">Projeto</a>
 
-</p>
-<div align="center">
-<img src="">
-</div>
-
 ## 🎨 Layout
 <div align="center">
 <img src="assets/img/Captura de tela 2024-09-11 204658.png">
